@@ -21,6 +21,10 @@ Features:
 ###Depends on
 - frappe (To install: [bench page](https://github.com/frappe/bench) )
 - python module: oauth2client, gdata, google-api-python-client, keyring
+  pip install oauth2client
+  pip install gdata
+  pip install google-api-python-client
+  pip install keyring
 
 ###Installation
 Note: Compatible with frappe 5 and above.
