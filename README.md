@@ -2,6 +2,11 @@
 
 Este es el fork para la version 9 de Frappe
 
+###Instalacion
+
+1. bench get-app gcal git@github.com:chabito79/GCAL.git
+2. bench install-app gcal
+3. bench migrate
 
 ----------
 
@@ -20,7 +25,7 @@ Features:
 ###Installation
 Note: Compatible with frappe 5 and above.
 
-1. bench get-app gcal [https://github.com/indictranstech/GCAL.git](https://github.com/indictranstech/GCAL.git)
+1. bench get-app gcal git@github.com:chabito79/GCAL.git
 2. bench install-app gcal<br>or install from frappe desk installer.
 3. bench migrate
 
