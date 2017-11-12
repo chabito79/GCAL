@@ -16,7 +16,7 @@ from oauth2client import client
 from oauth2client import tools
 from oauth2client.client import Credentials
 from oauth2client.client import OAuth2WebServerFlow
-from oauth2client.keyring_storage import Storage
+from oauth2client.contrib.keyring_storage import Storage
 
 class SyncConfiguration(Document):pass
 
