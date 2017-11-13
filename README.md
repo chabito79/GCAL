@@ -18,7 +18,7 @@ Features:
 2. User can create and updates the records, from google to erp and Vice Versa.
 
 
-###Depends on
+###Dependencias
 - frappe (To install: [bench page](https://github.com/frappe/bench) )
 - python module: oauth2client, gdata, google-api-python-client, keyring
   pip install oauth2client
